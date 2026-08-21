@@ -2,6 +2,10 @@ This README file was generated on 2026-08-21 by Graeme Morey and updated on 2026
 
 **Title of dataset:** Tree Stem Methane
 
+**Location of Data Collection**
+
+The study site for this project is situated on the ancestral territory of the Kaska Dena (https://kaskadenacouncil.com/). Support of the Kaska Dena Council is an integral part this project. 
+
 **Description/summary**
 
 The tree stem methane project began in September, 2025 by Dr. McKenzie Kuhn and Graeme Morey at the Department of Geography, UBC. The main objectives of this project are to map the treeline of the study area (years 1948, 1975, and 2026) and quantify the elevation change; quantify greenhouse gas fluxes (carbon dioxide - CO2, methane - CH4) from *Abies lasiocarpa* (subalpine fir) stems, and model how future regional treeline shifts may change the CO2 and CH4 of the forest. The project remains ongoing. Expected completion: April 2027.
@@ -21,8 +25,6 @@ TBD
 **Software/tools used**
 
 TBD
-
-**Author/creator information**
 
 **Author/creator information**
 
